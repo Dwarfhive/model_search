@@ -1,4 +1,4 @@
-six==2003
+six==2004
 sklearn==0.0
 tensorflow==2.6.0
 tensorflow-estimator==2.6.0
